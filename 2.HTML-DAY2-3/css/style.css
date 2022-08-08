@@ -1,0 +1,20 @@
+.form_container{
+    margin: auto;
+    width: 80%;
+    padding: 50px;
+    background-color: blanchedalmond;
+}
+input[type=text]{
+    width:50%;
+}
+
+input[type=submit]{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: brown;
+}
+
+select{
+    width: 500px;
+}
